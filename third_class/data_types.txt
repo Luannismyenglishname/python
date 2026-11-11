@@ -1,0 +1,19 @@
+>> collectionz = [1, True, "John", 55.7, (2, 3, 4),{"student: Tomisin"},{9, 8, 7}]
+>>> collectionz = [1, True, "John", 55.7, (2, 3, 4),{"student: Tomisin"},{9, 8, 7}, ["a", "b", "c"]]
+>>> collectionz[0]
+1
+>>> 
+>>> collectionz[1]
+True
+>>> collectionz[2]
+'John'
+>>> collectionz[3]
+55.7
+>>> collectionz[4]
+(2, 3, 4)
+>>> collectionz[5]
+{'student: Tomisin'}
+>>> collectionz[6]
+{8, 9, 7}
+>>> collectionz[7]
+['a', 'b', 'c']
