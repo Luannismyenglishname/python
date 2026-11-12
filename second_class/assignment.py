@@ -4,7 +4,8 @@ ans:int"""
 "No.3 ans:float"
 "No.4 ans True"
 "No.5 ans dict"
-"No.6"
+"No.6 ans the square brackets are lists and parentheses are tuples"
+"No.7 ans"
 
 
 
